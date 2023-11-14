@@ -1,5 +1,5 @@
 # Oi! Eu sou Mário Barbosa 👋
-Desenvolver web e mobile. Atualmente trabalhando com PHP, Vuejs, jQuery, CSS, HTML, ReactJS, React-Native, NodeJS
+Desenvolvedor web e mobile. Atualmente trabalhando com PHP, Vuejs, jQuery, CSS, HTML, ReactJS, React-Native, NodeJS
 
 ### Encontre-me nas redes-sociais:
 * Facebook: [mario.barbosa.oliveira](https://www.facebook.com/mario.barbosa.oliveira/)
